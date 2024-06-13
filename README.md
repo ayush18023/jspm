@@ -20,5 +20,10 @@ jspm purge
 - Terminal ui 
 - Add bianry scripts<br/><br/>
 
+
+
+https://github.com/ayush18023/jspm/assets/80062397/ed780957-ddb2-4e9f-a5e2-92db01cabd3b
+
+
 It is faster compared to **npm**, but there are issues need to be resolved and testing required to make it compatible.
 
